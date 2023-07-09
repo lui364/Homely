@@ -1,5 +1,19 @@
 # Homely
 
+HOME
+[![Homely-Google-Chrome-9-7-2023-7-41-31-a-m-2.png](https://i.postimg.cc/4d3zMTw9/Homely-Google-Chrome-9-7-2023-7-41-31-a-m-2.png)](https://postimg.cc/gwfXXQCz)
+
+ABOUT
+[![Homely-Google-Chrome-9-7-2023-7-41-40-a-m-2.png](https://i.postimg.cc/2Sp75Mjs/Homely-Google-Chrome-9-7-2023-7-41-40-a-m-2.png)](https://postimg.cc/PP4w36wy)
+
+PORTAFOLIO
+[![Homely-Google-Chrome-9-7-2023-7-41-51-a-m-2.png](https://i.postimg.cc/fLgxQggg/Homely-Google-Chrome-9-7-2023-7-41-51-a-m-2.png)](https://postimg.cc/XGdZwxWw)
+
+
+CONTACTO
+[![Homely-Google-Chrome-9-7-2023-7-42-00-a-m-2.png](https://i.postimg.cc/hvzVDbk4/Homely-Google-Chrome-9-7-2023-7-42-00-a-m-2.png)](https://postimg.cc/BP3jNDZR)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 ## Development server
