@@ -1,4 +1,5 @@
 # Homely
+URL: https://chimerical-figolla-35ec6d.netlify.app/home
 
 HOME
 [![Homely-Google-Chrome-9-7-2023-7-41-31-a-m-2.png](https://i.postimg.cc/4d3zMTw9/Homely-Google-Chrome-9-7-2023-7-41-31-a-m-2.png)](https://postimg.cc/gwfXXQCz)
